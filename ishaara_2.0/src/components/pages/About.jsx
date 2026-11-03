@@ -24,7 +24,7 @@ const About = () => {
       
         <div className="about-media-content-2">
           <p className='p'>Our project focuses on creating a robust, scalable system to predict, interpret, and translate Indian Sign Language (ISL) in real-time, without requiring specialized hardware. ISL combines actions, facial expressions, and body language, differing from other sign languages like American Sign Language (ASL), which may use single-hand gestures; ISL usually uses both hands. This complexity presents challenges in developing an accurate machine learning model for ISL interpretation.</p>
-          <p className='p'>For our third-year Mini Project, we began our research with a visit to the Bombay Institution For Deaf & Mutes. We initially gathered information about commonly used actions and words through the institution's teachers and developed a sequence-to-sequence model using GRU and Bidirectional GRU to capture the semantic meaning of actions. Our model worked well with a set of six actions, utilizing real-time data collected through landmarks from deaf and mute students.</p>
+          <p className='p'>This is my project for science fairs like RBVP (rashtriya bal vaigyanik pradarshani) just hoping i can get selected and win!.</p>
         </div>
       </div>
       <div className="about-media">
