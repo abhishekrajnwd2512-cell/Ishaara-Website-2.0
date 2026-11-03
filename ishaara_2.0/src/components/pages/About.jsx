@@ -16,7 +16,7 @@ const About = () => {
       <div className="about-media">
         <div className="about-media-content-1">
           <p className='p'>Over 63 million people in India, or about 6.3% of the population, are hard of hearing. This group is expected to grow due to factors such as aging. Though they do not regard their hearing loss as a disability, but rather a different way of life, their social interactions can be significantly limited</p>
-          <p className='p'>To prevent isolation within the often exclusive deaf community, we, the students of MH Saboo Siddik College of Engineering, affiliated with the University of Mumbai’s Computer Engineering Department, aim to bridge this communication gap using machine learning and computer vision techniques.</p>
+          <p className='p'>To prevent isolation within the often exclusive deaf community i aim to bridge this communication gap using machine learning and computer vision techniques.</p>
         </div>
         
       </div>
